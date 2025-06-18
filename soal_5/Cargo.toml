@@ -1,0 +1,9 @@
+[package]
+name = "hello_cargo"      # Nama paket/proyek
+version = "0.1.0"         # Versi proyek
+edition = "2021"          # Edisi bahasa Rust yang digunakan
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+# Tempat menuliskan dependensi (crate) yang dibutuhkan proyek
